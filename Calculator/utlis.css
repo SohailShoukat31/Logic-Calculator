@@ -1,0 +1,46 @@
+.center {
+  text-align: center;
+}
+.bg-red {
+  background-color: rgb(144, 147, 141);
+  /* width: 30%; */
+}
+.mx-auto {
+  margin: auto;
+}
+
+.button {
+  color: white;
+  background-color: rgb(22, 20, 20);
+  font-size: 30px;
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+}
+.row {
+  margin: 8px 0px;
+}
+.row input {
+  width: 291px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.operator {
+  background-color: rgb(235, 158, 14);
+}
